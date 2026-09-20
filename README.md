@@ -17,7 +17,7 @@
 5. **Конец**
 
 ### Блок-схема
- [](https://github.com/Avebanger/Lab02/blob/master/Диаграмма_lab02.png)
+ (https://github.com/Avebanger/Lab02/blob/master/Диаграмма_lab02.png)
 
 
 ## 2. Реализация программы
