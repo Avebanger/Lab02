@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e2cccfcc-33b3-4309-896e-39607eb0aabe}</ProjectGuid>
-    <RootNamespace>Lab02</RootNamespace>
+    <ProjectGuid>{27d8210f-2503-4be6-a95a-91bd921e0aa3}</ProjectGuid>
+    <RootNamespace>Task4DZ</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Task1</ProjectName>
+    <ProjectName>Task4_DZ_var_12</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Task1.c" />
+    <ClCompile Include="Variant_12.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
